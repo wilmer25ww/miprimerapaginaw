@@ -98,6 +98,10 @@ main{
                       img{
                         height: 200px;
                       }
+                      .greeting{
+                        text-align:center;
+                      }
+                                            
                                             
                       @media (max-width: 768px) {
                         .column {
@@ -145,6 +149,7 @@ main{
                         max-width: 90%;
                       }
                       }
+                      
                       
                       
                       
